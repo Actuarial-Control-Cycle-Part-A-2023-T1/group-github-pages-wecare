@@ -10,22 +10,53 @@ Team Members: Justin Khaw | Michele Lin | Amaan Mohideen | Jason Xue
 ---
 # Executive Summary
 
-[insert]
+WeCare has been hired to design a social insurance program for Storslysia with the
+ultimate goal of managing its exposure to displacement risk arising from catastrophic
+climate related events. WeCare is proposing a three-pronged approach:
+• Providing property coverage for those affected by natural catastrophes
+• Temporary accommodation and payments to cover displacement living costs
+• Monetary grant incentives to promote proactive relocation to lower risk areas
+Participation in this program will be compulsory and consists of individualised risk
+pricing for the six main regions of Storslysia. Catastrophes frequency and severity
+were projected to provide a measure of property damage for all regions. WeCare is
+confident the proposed social insurance program will be sustainable over the
+projected 127-year timeframe with an annual review process to monitor and revise
+assumptions. This report provides a risk assessment and mitigation framework to
+support Storslysia to manage its exposure to catastrophic climate related events
 
+---
 # Objectives
 
+>insert section
+
+---
 # Design
 
+>insert section
+
+---
 # Pricing and Costing
 
+>insert section
+
+---
 # Assumptions
 
+>insert section
+
+---
 # Risks
 
+>insert section
+
+---
 # Data and Data Limitations
 
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
+>insert section
+
+
+---
+>Below is to delete
 
 #### Follow the [guide doc](Doc1.pdf) to submit your work. 
 ---
