@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/elzutNYu)
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-f4981d0f882b2a3f0472912d15f9806d57e124e0fc890972558857b51b24a6f9.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=10760551)
 
->add in image here that we used for our cover page in the report
+![Storm Image]()
 
 # ACTL4001/ACTL5100 SOA Challenge Showcase
 
@@ -26,8 +26,10 @@ Participation in this program will be compulsory and consists of individualised 
 Increasing temperatures and rising sea levels have been experienced worldwide due to increasing greenhouse gas emissions (EPA, Climate Change Indicators: Oceans 2022). Around the world the frequency and intensity of natural catastrophes are growing at an alarming rate. For the residents of Storslysia, its diverse geography exposes them to a range of different catastrophic events. The impacts of climate change have elevated the population's risk of displacement and not having home insurance in this current environment is a cause for concern (iDMC, Displacement, disasters and climate change 2021). WeCare’s objective is to design a social insurance program to protect Storslysian households against this displacement risk. Our proposal possesses similar features to home insurance, by compensating homeowners financially to repair/replace their home when damaged by an insured catastrophic event. The scheme aims to provide affordable mandatory home insurance, coverage of temporary housing and living costs and incentives to encourage proactive relocation to less risky regions to the residents of Storyslysia.
 
 <h3 align="left">Key Metrics to Monitor</h3>
->insert table from report
-
+|Metric |Aim  |Reporting Frequency  |
+|-------   |--- |---                 |
+| Proportion of displacements| Reduce % of population displaced  |Bi-annually  |
+| Property Damage            | Lower levels of property damage   | Annually    |
 ---
 <h2 align="left">Design</h2>
 WeCare proposes a 3-part insurance program targeted at reducing the impact of potential catastrophic events and relocation.
