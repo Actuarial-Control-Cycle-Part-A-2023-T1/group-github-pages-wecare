@@ -9,10 +9,10 @@ Team: WeCare
 
 Team Members: Justin Khaw | Michelle Lin | Amaan Mohideen | Jason Xue
 
->insert table of contents?? -JK
+>**insert table of contents?? -JK**
 
 ---
-<h2 align="left">Executive Summary</h2>
+<h2 align="left">1. Executive Summary</h2>
 
 WeCare has been hired to design a social insurance program for Storslysia with the ultimate goal of managing its exposure to displacement risk arising from catastrophic climate related events. WeCare is proposing a three-pronged approach:
 
@@ -23,11 +23,11 @@ WeCare has been hired to design a social insurance program for Storslysia with t
 Participation in this program will be compulsory and consists of individualised risk pricing for the six main regions of Storslysia. Catastrophes frequency and severity were projected to provide a measure of property damage for all regions. WeCare is confident the proposed social insurance program will be sustainable over the projected 127-year timeframe with an annual review process to monitor and revise assumptions. This report provides a risk assessment and mitigation framework to support Storslysia to manage its exposure to catastrophic climate related events
 
 ---
-<h2 align="left">Objectives</h2>
+<h2 align="left">2. Objectives</h2>
 
-Increasing temperatures and rising sea levels have been experienced worldwide due to increasing greenhouse gas emissions (EPA, Climate Change Indicators: Oceans 2022). Around the world the frequency and intensity of natural catastrophes are growing at an alarming rate. For the residents of Storslysia, its diverse geography exposes them to a range of different catastrophic events. The impacts of climate change have elevated the population's risk of displacement and not having home insurance in this current environment is a cause for concern (iDMC, Displacement, disasters and climate change 2021). WeCare’s objective is to design a social insurance program to protect Storslysian households against this displacement risk. Our proposal possesses similar features to home insurance, by compensating homeowners financially to repair/replace their home when damaged by an insured catastrophic event. The scheme aims to provide affordable mandatory home insurance, coverage of temporary housing and living costs and incentives to encourage proactive relocation to less risky regions to the residents of Storyslysia.
+Increasing temperatures and rising sea levels have been experienced worldwide due to increasing greenhouse gas emissions **(EPA, Climate Change Indicators: Oceans 2022)**. Around the world the frequency and intensity of natural catastrophes are growing at an alarming rate. For the residents of Storslysia, its diverse geography exposes them to a range of different catastrophic events. The impacts of climate change have elevated the population's risk of displacement and not having home insurance in this current environment is a cause for concern **(iDMC, Displacement, disasters and climate change 2021)**. WeCare’s objective is to design a social insurance program to protect Storslysian households against this displacement risk. Our proposal possesses similar features to home insurance, by compensating homeowners financially to repair/replace their home when damaged by an insured catastrophic event. The scheme aims to provide affordable mandatory home insurance, coverage of temporary housing and living costs and incentives to encourage proactive relocation to less risky regions to the residents of Storyslysia.
 
-<h3 align="left">Key Metrics to Monitor</h3>
+<h3 align="left">2.1 Key Metrics to Monitor</h3>
 
 |Metric |Aim  |Reporting Frequency  |
 |:----- |:--- |:---                 |
@@ -38,14 +38,18 @@ Increasing temperatures and rising sea levels have been experienced worldwide du
 | Expenses           |  Track expenses (operational & admin)  | Annually    |
 
 ---
-<h2 align="left">Design</h2>
+<h2 align="left">3. Design</h2>
+
+<h3 align="left">3.1 Overview</h3>
 WeCare proposes a 3-part insurance program targeted at reducing the impact of potential catastrophic events and relocation.
 
 1. Home insurance cover for catastrophic events for all homeowners.
 2. Temporary displacement insurance to cover the costs of temporary relocation due to extreme hazard events.
 3. Monetary grant incentives for households to purchase property in the safest region in Storslysia.
 
-<h3 align="left">Policy Coverage</h3>
+<h3 align="left">3.2 Home Insurance</h3>
+
+<h3 align="left">3.2.1 Policy Coverage</h3>
 
 *Damages which are covered:*
 
@@ -75,6 +79,39 @@ After a successful claim, the program will cover the cost of:
 - Temporary accommodation, which includes a fortnightly living cost payment for displacement caused by natural disasters.
 - Rebuilding, repairing, or replacing damages to homes caused by insured natural hazards.
 
+<h3 align="left">3.2.2 Scheme Claim Requirements</h3>
+
+The following is required for a claim to be accepted:
+
+• **Policy Adherence** - Claim needs to be covered by the scheme **(3.2.1)**
+• **Event Classification** - Damages need to coincide with a Storslysian Bureau of Meteorology (SBM) classified natural hazard event.
+• **Proof of loss** - Documentation or evidence to support a claim, such as photographs, videos, and/or receipts for damaged property. This may also include quoted estimates for repair or replacement costs.
+• **Timely Submission** - Claims must be filed within 6 months from the last day recorded of the extreme hazard event.
+
+<h3 align="left">3.3 Temporary Displacement Insurance</h3>
+
+This scheme will cover the daily housing and living expense requirements in the event of displacement due to SBM classified natural hazards **(DFAT, Why we manage displacement and resettlement)**. Citizens must also prove property damage deeming the residential building unsafe to live in or inability to access the property with policy coverage consistent with home insurance **(3.2)**.
+
+<h3 align="left">3.4 Voluntary Relocation Incentives</h3>
+
+Part one of this scheme offers a lump sum to household owners in Regions 2 - 6, as an incentive to purchase properties in Region 1. The purpose being to encourage voluntary relocation to the safest area in Storslysia (Region 1), which has a significantly lower exposure to natural disaster events than all other regions. Part two is that household levies are priced based on the regional risk exposure. Therefore, households would benefit by relocating to a safer region and paying lower levies.
+
+<h3 align="left">3.4.1 Scheme Specifications</h3>
+
+• Households will pay lower annual levies for residing in safer regions.
+• Region 2 - 6 households will receive a lump sum fund if they relocate to Region 1. The more exposed the current region is to climate events, the greater the lump sum offered to relocate.
+• To receive this fund, homeowners must have purchased the home within an eligible region prior to 31st December 2022.
+
+<h3 align="left">3.5 Other Features</h3>
+
+• Our program will include the establishment of conservation areas which will be used for temporary accommodation.
+• Levies may be reimbursed or reduced if the government is making significant profits due to the non-for-profit nature of the scheme.
+
+<h3 align="left">3.5.1 Feature Justification</h3>
+
+**Relocation incentive:** It is evident that different regions have differing risk profiles. For example, region 2 is 3 times more likely to experience a catastrophe then region 6 due to its coastal location **(appendix B)**. Therefore, for Storslysia to reduce overall losses from catastrophes, WeCare recommends voluntary relocation before disasters hit. Lumpsum incentives support citizens in the transition to safer regions thereby reducing involuntary displacement and property damage. Additionally, the criteria of residing in an eligible region before policy announcement deters citizens from taking advantage of the scheme and purchasing property in high risk areas to obtain the incentive lump sum.
+**Home insurance:** Introducing annual levies helps to maintain the on-going longevity of the scheme. Citizens will need to consider the additional annual cost of owning a home in risky regions particularly when purchasing a home after the lumpsum incentive date. Finally, limiting cover to natural disasters reported by SBM aims to ensures sufficient data in modelling. Timely submission is also important to confirm damages are caused by relevant disasters.
+**Temporary housing and living cost scheme:** This protect citizens’ basic universal right to shelter even in situations completely out of their control **(United Nations, The human right to adequate housing 2019)**. Overall, this scheme aims to ensure the social stability of Storsylsia despite the growing climate risk.
 
 ---
 <h2 align="left">4. Pricing and Costing</h2>
@@ -129,12 +166,31 @@ Due to the very conservative approach taken to price this insurance program, WeC
 >**insert distribution of economic costs chart**
 
 ---
-<h2 align="left">Assumptions</h2>
+<h2 align="left">5. Assumptions</h2>
 
->**insert living cost assumption table here**
+**Minor, medium, and major hazard categorization:**
+The hazard events are split using breakpoints of 500,000 and 5,000,000 of discounted property damage per hazard event. (Appendix B).
+
+**Duration of displacement due to natural disaster:**
+To estimate the total cost of temporary relocation, it was assumed that minor, medium, and major hazard events have varying durations of displacement (Appendix C).
+
+**Percentage of population and households displaced**
+Due to limited data surrounding displacement, the percentage displaced is assumed to be proportional to property damage as a percentage of total property value **(Appendix D).**
+
+**Affordable premium boundary:**
+The design of this social insurance program had affordability in mind throughout. Home insurance premium will be considered unaffordable when it exceeds four weeks of gross household income **(Paddam, S. et al)**, therefore, levies shall not exceed this.
+
+**Population growth rate is assumed to be 1.6% per year:**
+Demographic data shows 7% increase in population from 2020 to 2021. However, this growth is unsustainable long-term. Hence, WeCare assumes a constant 1.6% population growth using a basket of different annual growth rate indicators **(Appendix J)**.
+
+**Uniformity assumption:**
+Due to limited data, an uniformity assumption was made where all buildings and people are impacted equally.
+
+**Incentive scheme relocation rate:**
+The model assumes 1% of households relocate to Region 1 annually.
 
 ---
-<h2 align="left">Risks</h2>
+<h2 align="left">6. Risks</h2>
 
 **Risk Mitigation**
 Risk |Mitigation |
@@ -149,11 +205,11 @@ Risk |Mitigation |
 |H. Data risk: Data may be skewed, incomplete or inaccurate	|•	Data checks done frequently </br>•	Update data regularly
 |I. Liquidity risk: Insufficient funds for solvency	|Model economic funds to 95% confidence bound
 
-**Risk Matrix**
+<h3 align="left">6.1 Risk Matrix</h3>
 
 ![](RiskMatrix.JPG)
 
-**Sensitivity Analysis**
+<h3 align="left">6.2 Sensitivity Analysis</h3>
 
 Sensitivity analysis is used to identify which variables have large individual influence on output. In this section we look at 2 key variables, emissions and interest.
 
@@ -164,7 +220,7 @@ Sensitivity analysis is used to identify which variables have large individual i
 **3. Other variables tested with smaller impacts on results:** </br>• Incentive amount </br>• % of people relocating </br>• Reasonable population growth
 
 ---
-<h2 align="left">Data and Data Limitations</h2>
+<h2 align="left">7. Data and Data Limitations</h2>
 
 WeCare has received the following data: 
 
