@@ -89,8 +89,18 @@ After a successful claim, the program will cover the cost of:
 ---
 <h2 align="left">Risks</h2>
 
->insert section
-
+Risk |Mitigation |
+|:----- |:--- |
+|A. High claims cost: Increased emissions causing greater frequency and severity of catastrophic events and potential unforeseen climate issues.Being a social program, we wish to maximise coverage, therefore do not want to limit policy coverage. |Stress testing climate worsening to the 95th percentile to ensure solvency. Future scope: •	Reinsurance to pool the risk. •	Introducing an excess on property damage •	Alternative measures to reduce climate effects e.g. researching renewable energy, reducing carbon emissions and back burning wildfires.
+|B. Moral Hazard: If citizens believe their home is covered through the scheme, they may be less likely to take measures to minimise damages or voluntarily re-locate. For example, well maintained roofs are less likely to be damaged by hail and storms, causing leaks and other damages.|Incentives to relocate to lower risk areas. Cross subsidisation between regions. Future scope: •	Incentive for home health checks e.g. a home maintenance voucher. •	Extra data collected to improve the risk model.
+|C. Adverse selection: Citizens with high risk are more likely to purchase the scheme| Making this scheme mandatory for all homeowners will mitigate this risk.
+|D. Economic: Adverse interest rate & inflation	|Sensitivity testing for economic factors
+|E. Affordability: Houses can be expensive. As potential risk of major disaster increases, levies can become too high to be affordable|	Levy max cap set to 8% of median household income (Appendix K).
+|F. Operational & Administrative risk: Being a national scheme for all residential housing may be large administrative strain	|Allocate sufficient expenses towards operational and admin staffing (included in the expense loading)
+|G. Actuarial Risk: Risk that assumptions and pricing models are inaccurate |•	Calibrate and monitor model frequently •	Gather Input from experts •	Encourage risk sharing with re-insurance •	Exclude cover we do not have data for
+|H. Data risk: Data may be skewed, incomplete or inaccurate	|•	Data checks done frequently •	Update data regularly
+|I. Liquidity risk: Insufficient funds for solvency	|Model economic funds to 95% confidence bound
+---
 ---
 <h2 align="left">Data and Data Limitations</h2>
 
