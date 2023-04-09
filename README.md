@@ -77,14 +77,61 @@ After a successful claim, the program will cover the cost of:
 
 
 ---
-<h2 align="left">Pricing and Costing</h2>
+<h2 align="left">4. Pricing and Costing</h2>
 
->insert section
+<h3 align="left">4.1 Overview</h3>
+
+The most significant cost driver for the relocation program is property damage. WeCare’s models estimate the expected annual aggregate loss using the historical property losses due to extreme events from 1960 to 2022. This data was split into minor, medium and major events using inflation-adjusted property damage per hazard **(Appendix B)**. The relocation incentive and temporary displacement schemes are the other drivers of cost projections **(Appendix A)**.
+
+Through exploratory analysis, WeCare determined it is appropriate to model the cost of property damage by each region. These regions have unique exposures to natural events with varying degrees of severity that should be examined separately. The division of hazard events by region is also useful when it comes to levy setting, as it becomes a grading factor for determining the equitable price for each household. The Storslysian government has allocated a budget of 10% of GDP (~130b) to fund this program. WeCare proposes that the excess of budget required will be funded by an annual levy system to ensure sufficient capital to meet climate hazard risks. The following table summarises the levies under the proposed program.
+
+>insert table here
+
+<h3 align="left">4.2 Temporary Displacement</h3>
+
+For those unable to live in their current home due to catastrophes, the scheme has accounted for the cost of temporary displacement. This cost is broken into two components:
+
+- Temporary accommodation
+- Living costs
+
+The costs of temporary accommodation for Storslysia has been estimated under the assumption that the number of people displaced each year is correlated to the percentage of property damaged each year per region. WeCare assumed minor catastrophes do not cause enough property damage to claim temporary accommodation and living costs. WeCare has taken a conservative approach and assumed 12 months of temporary accommodation and living costs for major catastrophes and 3 months for medium catastrophes.
+
+>**insert living cost assumption table here**
+
+<h3 align="left">4.3 Incentive Program</h3>
+
+Costs under voluntary relocation is projected to be lower than emergency displacement. Voluntary relocation significantly diminishes the exposure to property damage and reduces the need for temporary accommodation and living costs. The program promotes household to move from high risk regions to region 1 with once off cash incentives, as shown below.
+
+>**insert incentive summary table here**
+
+These cash incentive can help households pay up to 20 years of future levy, while also reducing the total cost of each region as a result of voluntary relocation **(Appendix I)**.
+
+<h3 align="left">4.4 Economic Capital and Benefits</h3>
+
+WeCare has conducted analysis on the level of liquidity required to remain solvent during the entirety of the program as well as the economic benefit created.
+
+<h3 align="left">4.4.1 Economic Capital</h3>
+
+An appropriate level of economic capital is required to ensure the social insurance program remains solvent. This means that at any given time there must be sufficient capital to cover the future cost of the program. The Storslysian government wants to protect its households even in the worst cases of natural hazards with a high degree of confidence. As a result, the program was priced based on the expected future losses at the 95% confidence bound. Additionally, WeCare has forecasted the impact of climate change on claim frequency using the worst-case emissions scenario.
+
+The table below shows the estimated present value of the total economic capital required for the entirety of the program.
+
+>**insert table of economic capital summary**
+
+The economic capital will be spread across the life of the program through the annual levy, which has been priced to ensure Storslysia has a high confidence in the level of reserves assigned to meet catastrophe claims. Below is a graph which highlights the annual surplus maintained to avoid insolvency:
+
+>**annual reserves to meet expected costs graph**
+
+<h3 align="left">4.4.2 Economic Benefit Projection</h3>
+
+Due to the very conservative approach taken to price this insurance program, WeCare has projected the economic benefits of the program under the same basis. Assuming climate events occur at the 95th percentile of expected damage, the Storslysian economy stands to benefit by reducing the overall present value of expected hazard losses by 7.330 billion units of Storslysian currency. Additionally, 92.8% of the burden of losses will be covered by the Storslysian government.
+
+>**insert distribution of economic costs chart**
 
 ---
 <h2 align="left">Assumptions</h2>
 
->insert section
+>**insert living cost assumption table here**
 
 ---
 <h2 align="left">Risks</h2>
