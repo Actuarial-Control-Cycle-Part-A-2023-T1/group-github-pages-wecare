@@ -7,7 +7,7 @@
 
 Team: WeCare
 
-Team Members: Justin Khaw | Michele Lin | Amaan Mohideen | Jason Xue
+Team Members: Justin Khaw | Michelle Lin | Amaan Mohideen | Jason Xue
 
 >insert table of contents?? -JK
 
