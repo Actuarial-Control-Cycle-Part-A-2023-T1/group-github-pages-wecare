@@ -101,6 +101,7 @@ Risk |Mitigation |
 |H. Data risk: Data may be skewed, incomplete or inaccurate	|•	Data checks done frequently </br>•	Update data regularly
 |I. Liquidity risk: Insufficient funds for solvency	|Model economic funds to 95% confidence bound
 
+*Risk Matrix*
 ![](RiskMatrix.JPG)
 ---
 ---
