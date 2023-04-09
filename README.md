@@ -89,6 +89,7 @@ After a successful claim, the program will cover the cost of:
 ---
 <h2 align="left">Risks</h2>
 
+**Risk Mitigation**
 Risk |Mitigation |
 |:----- |:--- |
 |A. High claims cost: Increased emissions causing greater frequency and severity of catastrophic events and potential unforeseen climate issues. </br></br> Being a social program, we wish to maximise coverage, therefore do not want to limit policy coverage. |Stress testing climate worsening to the 95th percentile to ensure solvency. </br></br>Future scope: </br>•	Reinsurance to pool the risk. </br>•	Introducing an excess on property damage </br>•	Alternative measures to reduce climate effects e.g. researching renewable energy, reducing carbon emissions and back burning wildfires.
