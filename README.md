@@ -106,6 +106,14 @@ Risk |Mitigation |
 
 ![](RiskMatrix.JPG)
 
+**Sensitivity Analysis**
+
+Sensitivity analysis is used to identify which variables have large individual influence on output. In this section we look at 2 key variables, emissions and interest.
+
+1. **Higher/lower emissions scenarios** </br>• Leads to higher frequency of catastrophes </br>• Increased temporary accommodation needs </br>• Increased duration of displacement (months)</br></br> As seen in emission scenarios, there is much higher upside risk where very high emissions could cause costs to increase dramatically.
+2. **Discounting (Economic Downturn)** </br>• Higher % on living expenses (15% | base 10%) </br>• Higher Interest (+/-2%) The interest scenario on the right demonstrates a relativity even impact from changes in interest rates
+3. **Other variables tested with smaller impacts on results: **</br>• Incentive amount </br>• % of people relocating </br>• Reasonable population growth
+
 ---
 <h2 align="left">Data and Data Limitations</h2>
 
