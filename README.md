@@ -91,8 +91,8 @@ After a successful claim, the program will cover the cost of:
 
 Risk |Mitigation |
 |:----- |:--- |
-|A. High claims cost: Increased emissions causing greater frequency and severity of catastrophic events and potential unforeseen climate issues. </br> Being a social program, we wish to maximise coverage, therefore do not want to limit policy coverage. |Stress testing climate worsening to the 95th percentile to ensure solvency. </br></br>Future scope: </br>•	Reinsurance to pool the risk. </br>•	Introducing an excess on property damage </br>•	Alternative measures to reduce climate effects e.g. researching renewable energy, reducing carbon emissions and back burning wildfires.
-|B. Moral Hazard: If citizens believe their home is covered through the scheme, they may be less likely to take measures to minimise damages or voluntarily re-locate. For example, well maintained roofs are less likely to be damaged by hail and storms, causing leaks and other damages.|Incentives to relocate to lower risk areas. Cross subsidisation between regions. </br></br>Future scope: </br>•	Incentive for home health checks e.g. a home maintenance voucher. </br>•	Extra data collected to improve the risk model.
+|A. High claims cost: Increased emissions causing greater frequency and severity of catastrophic events and potential unforeseen climate issues. </br></br> Being a social program, we wish to maximise coverage, therefore do not want to limit policy coverage. |Stress testing climate worsening to the 95th percentile to ensure solvency. </br></br>Future scope: </br>•	Reinsurance to pool the risk. </br>•	Introducing an excess on property damage </br>•	Alternative measures to reduce climate effects e.g. researching renewable energy, reducing carbon emissions and back burning wildfires.
+|B. Moral Hazard: If citizens believe their home is covered through the scheme, they may be less likely to take measures to minimise damages or voluntarily re-locate. </br> For example, well maintained roofs are less likely to be damaged by hail and storms, causing leaks and other damages.|Incentives to relocate to lower risk areas. Cross subsidisation between regions. </br></br>Future scope: </br>•	Incentive for home health checks e.g. a home maintenance voucher. </br>•	Extra data collected to improve the risk model.
 |C. Adverse selection: Citizens with high risk are more likely to purchase the scheme| Making this scheme mandatory for all homeowners will mitigate this risk.
 |D. Economic: Adverse interest rate & inflation	|Sensitivity testing for economic factors
 |E. Affordability: Houses can be expensive. As potential risk of major disaster increases, levies can become too high to be affordable|	Levy max cap set to 8% of median household income (Appendix K).
@@ -100,6 +100,7 @@ Risk |Mitigation |
 |G. Actuarial Risk: Risk that assumptions and pricing models are inaccurate |•	Calibrate and monitor model frequently </br>•	Gather Input from experts </br>•	Encourage risk sharing with re-insurance </br>•	Exclude cover we do not have data for
 |H. Data risk: Data may be skewed, incomplete or inaccurate	|•	Data checks done frequently </br>•	Update data regularly
 |I. Liquidity risk: Insufficient funds for solvency	|Model economic funds to 95% confidence bound
+
 ---
 ---
 <h2 align="left">Data and Data Limitations</h2>
