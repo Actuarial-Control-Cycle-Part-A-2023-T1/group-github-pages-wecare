@@ -11,7 +11,17 @@ Team Members: Justin Khaw | Michelle Lin | Amaan Mohideen | Jason Xue
 
 >**insert table of contents?? -JK**
 
+# Table of Contents
+1. [Executive Summary](#ExecutiveSummary)
+2. [Objectives](#Objectives)
+3. [Design](#Design)
+4. [Pricing and Costing](#Price)
+5. [Assumptions](#Assumption)
+6. [Risks](#Risk)
+7. [Data and Data Limitations](#Data)
+
 ---
+<a name="ExecutiveSummary"></a>
 <h2 align="left">1. Executive Summary</h2>
 
 WeCare has been hired to design a social insurance program for Storslysia with the ultimate goal of managing its exposure to displacement risk arising from catastrophic climate related events. WeCare is proposing a three-pronged approach:
@@ -23,11 +33,12 @@ WeCare has been hired to design a social insurance program for Storslysia with t
 Participation in this program will be compulsory and consists of individualised risk pricing for the six main regions of Storslysia. Catastrophes frequency and severity were projected to provide a measure of property damage for all regions. WeCare is confident the proposed social insurance program will be sustainable over the projected 127-year timeframe with an annual review process to monitor and revise assumptions. This report provides a risk assessment and mitigation framework to support Storslysia to manage its exposure to catastrophic climate related events
 
 ---
+<a name="Objectives"></a>
 <h2 align="left">2. Objectives</h2>
 
 Increasing temperatures and rising sea levels have been experienced worldwide due to increasing greenhouse gas emissions **(EPA, Climate Change Indicators: Oceans 2022)**. Around the world the frequency and intensity of natural catastrophes are growing at an alarming rate. For the residents of Storslysia, its diverse geography exposes them to a range of different catastrophic events. The impacts of climate change have elevated the population's risk of displacement and not having home insurance in this current environment is a cause for concern **(iDMC, Displacement, disasters and climate change 2021)**. WeCare’s objective is to design a social insurance program to protect Storslysian households against this displacement risk. Our proposal possesses similar features to home insurance, by compensating homeowners financially to repair/replace their home when damaged by an insured catastrophic event. The scheme aims to provide affordable mandatory home insurance, coverage of temporary housing and living costs and incentives to encourage proactive relocation to less risky regions to the residents of Storyslysia.
 
-<h3 align="left">2.1 Key Metrics to Monitor</h3>
+<h3 align="left">2.1 Key Metrics to Monitor</h3> 
 
 |Metric |Aim  |Reporting Frequency  |
 |:----- |:--- |:---                 |
@@ -38,6 +49,7 @@ Increasing temperatures and rising sea levels have been experienced worldwide du
 | Expenses           |  Track expenses (operational & admin)  | Annually    |
 
 ---
+<a name="Design"></a>
 <h2 align="left">3. Design</h2>
 
 <h3 align="left">3.1 Overview</h3>
@@ -114,6 +126,7 @@ Part one of this scheme offers a lump sum to household owners in Regions 2 - 6, 
 **Temporary housing and living cost scheme:** This protect citizens’ basic universal right to shelter even in situations completely out of their control **(United Nations, The human right to adequate housing 2019)**. Overall, this scheme aims to ensure the social stability of Storsylsia despite the growing climate risk.
 
 ---
+<a name="Price"></a>
 <h2 align="left">4. Pricing and Costing</h2>
 
 <h3 align="left">4.1 Overview</h3>
@@ -166,6 +179,7 @@ Due to the very conservative approach taken to price this insurance program, WeC
 >**insert distribution of economic costs chart**
 
 ---
+<a name="Assumption"></a>
 <h2 align="left">5. Assumptions</h2>
 
 **Minor, medium, and major hazard categorization:**
@@ -190,6 +204,7 @@ Due to limited data, an uniformity assumption was made where all buildings and p
 The model assumes 1% of households relocate to Region 1 annually.
 
 ---
+<a name="Risk"></a>
 <h2 align="left">6. Risks</h2>
 
 **Risk Mitigation**
@@ -220,6 +235,7 @@ Sensitivity analysis is used to identify which variables have large individual i
 **3. Other variables tested with smaller impacts on results:** </br>• Incentive amount </br>• % of people relocating </br>• Reasonable population growth
 
 ---
+<a name="Data"></a>
 <h2 align="left">7. Data and Data Limitations</h2>
 
 WeCare has received the following data: 
