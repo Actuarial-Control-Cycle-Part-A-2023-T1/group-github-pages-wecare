@@ -96,8 +96,11 @@ After a successful claim, the program will cover the cost of:
 The following is required for a claim to be accepted:
 
 • **Policy Adherence** - Claim needs to be covered by the scheme **(3.2.1)**
+
 • **Event Classification** - Damages need to coincide with a Storslysian Bureau of Meteorology (SBM) classified natural hazard event.
+
 • **Proof of loss** - Documentation or evidence to support a claim, such as photographs, videos, and/or receipts for damaged property. This may also include quoted estimates for repair or replacement costs.
+
 • **Timely Submission** - Claims must be filed within 6 months from the last day recorded of the extreme hazard event.
 
 <h3 align="left">3.3 Temporary Displacement Insurance</h3>
