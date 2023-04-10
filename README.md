@@ -233,11 +233,15 @@ Sensitivity analysis is used to identify which variables have large individual i
 
 **1. Higher/lower emissions scenarios** </br>• Leads to higher frequency of catastrophes </br>• Increased temporary accommodation needs </br>• Increased duration of displacement (months)</br> As seen in emission scenarios, there is much higher upside risk where very high emissions could cause costs to increase dramatically.
 </br>
+
 ![](Scenario Analysis/SensitivityGraph1.JPG)
+
 </br>
 **2. Discounting (Economic Downturn)** </br>• Higher % on living expenses (15% | base 10%) </br>• Higher Interest (+/-2%) The interest scenario on the right demonstrates a relativity even impact from changes in interest rates
 </br>
-![](Scenario Analysis/SensitivityGraph1.JPG)
+
+![](Scenario Analysis/SensitivityGraph2.JPG)
+
 </br>
 **3. Other variables tested with smaller impacts on results:** </br>• Incentive amount </br>• % of people relocating </br>• Reasonable population growth
 
