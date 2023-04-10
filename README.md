@@ -124,7 +124,7 @@ Part one of this scheme offers a lump sum to household owners in Regions 2 - 6, 
 
 <h3 align="left">3.5.1 Feature Justification</h3>
 
-**Relocation incentive:** It is evident that different regions have differing risk profiles. For example, region 2 is 3 times more likely to experience a catastrophe then region 6 due to its coastal location [Pricing Model](Pricing Model/Assignment Pricing Model_v3.xlsx). Therefore, for Storslysia to reduce overall losses from catastrophes, WeCare recommends voluntary relocation before disasters hit. Lumpsum incentives support citizens in the transition to safer regions thereby reducing involuntary displacement and property damage. Additionally, the criteria of residing in an eligible region before policy announcement deters citizens from taking advantage of the scheme and purchasing property in high risk areas to obtain the incentive lump sum.
+**Relocation incentive:** It is evident that different regions have differing risk profiles. For example, region 2 is 3 times more likely to experience a catastrophe then region 6 due to its coastal location **[Pricing Model](Pricing Model/Assignment Pricing Model_v3.xlsx)**. Therefore, for Storslysia to reduce overall losses from catastrophes, WeCare recommends voluntary relocation before disasters hit. Lumpsum incentives support citizens in the transition to safer regions thereby reducing involuntary displacement and property damage. Additionally, the criteria of residing in an eligible region before policy announcement deters citizens from taking advantage of the scheme and purchasing property in high risk areas to obtain the incentive lump sum.
 **Home insurance:** Introducing annual levies helps to maintain the on-going longevity of the scheme. Citizens will need to consider the additional annual cost of owning a home in risky regions particularly when purchasing a home after the lumpsum incentive date. Finally, limiting cover to natural disasters reported by SBM aims to ensures sufficient data in modelling. Timely submission is also important to confirm damages are caused by relevant disasters.
 **Temporary housing and living cost scheme:** This protect citizens’ basic universal right to shelter even in situations completely out of their control **(United Nations, The human right to adequate housing 2019)**. Overall, this scheme aims to ensure the social stability of Storsylsia despite the growing climate risk.
 
@@ -134,7 +134,7 @@ Part one of this scheme offers a lump sum to household owners in Regions 2 - 6, 
 
 <h3 align="left">4.1 Overview</h3>
 
-The most significant cost driver for the relocation program is property damage. WeCare’s models estimate the expected annual aggregate loss using the historical property losses due to extreme events from 1960 to 2022. This data was split into minor, medium and major events using inflation-adjusted property damage per hazard **(Appendix B)**. The relocation incentive and temporary displacement schemes are the other drivers of cost projections **(Appendix A)**.
+The most significant cost driver for the relocation program is property damage. WeCare’s models estimate the expected annual aggregate loss using the historical property losses due to extreme events from 1960 to 2022. This data was split into minor, medium and major events using inflation-adjusted property damage per hazard **[Pricing Model](Pricing Model/Assignment Pricing Model_v3.xlsx)**. The relocation incentive and temporary displacement schemes are the other drivers of cost projections **[Pricing Model](Pricing Model/Assignment Pricing Model_v3.xlsx)**.
 
 Through exploratory analysis, WeCare determined it is appropriate to model the cost of property damage by each region. These regions have unique exposures to natural events with varying degrees of severity that should be examined separately. The division of hazard events by region is also useful when it comes to levy setting, as it becomes a grading factor for determining the equitable price for each household. The Storslysian government has allocated a budget of 10% of GDP (~130b) to fund this program. WeCare proposes that the excess of budget required will be funded by an annual levy system to ensure sufficient capital to meet climate hazard risks. The following table summarises the levies under the proposed program.
 
@@ -157,7 +157,7 @@ Costs under voluntary relocation is projected to be lower than emergency displac
 
 ![](ChartsandTables/IncentiveSummary.PNG)
 
-These cash incentive can help households pay up to 20 years of future levy, while also reducing the total cost of each region as a result of voluntary relocation **(Appendix I)**.
+These cash incentive can help households pay up to 20 years of future levy, while also reducing the total cost of each region as a result of voluntary relocation **[Pricing Model](Pricing Model/Assignment Pricing Model_v3.xlsx)**.
 
 <h3 align="left">4.4 Economic Capital and Benefits</h3>
 
@@ -186,19 +186,19 @@ Due to the very conservative approach taken to price this insurance program, WeC
 <h2 align="left">5. Assumptions</h2>
 
 **Minor, medium, and major hazard categorization:**
-The hazard events are split using breakpoints of 500,000 and 5,000,000 of discounted property damage per hazard event. (Appendix B).
+The hazard events are split using breakpoints of 500,000 and 5,000,000 of discounted property damage per hazard event **[Pricing Model](Pricing Model/Assignment Pricing Model_v3.xlsx)**.
 
 **Duration of displacement due to natural disaster:**
-To estimate the total cost of temporary relocation, it was assumed that minor, medium, and major hazard events have varying durations of displacement (Appendix C).
+To estimate the total cost of temporary relocation, it was assumed that minor, medium, and major hazard events have varying durations of displacement **[Pricing Model](Pricing Model/Assignment Pricing Model_v3.xlsx)**.
 
 **Percentage of population and households displaced**
-Due to limited data surrounding displacement, the percentage displaced is assumed to be proportional to property damage as a percentage of total property value **(Appendix D).**
+Due to limited data surrounding displacement, the percentage displaced is assumed to be proportional to property damage as a percentage of total property value **[Pricing Model](Pricing Model/Assignment Pricing Model_v3.xlsx)**.
 
 **Affordable premium boundary:**
 The design of this social insurance program had affordability in mind throughout. Home insurance premium will be considered unaffordable when it exceeds four weeks of gross household income **(Paddam, S. et al)**, therefore, levies shall not exceed this.
 
 **Population growth rate is assumed to be 1.6% per year:**
-Demographic data shows 7% increase in population from 2020 to 2021. However, this growth is unsustainable long-term. Hence, WeCare assumes a constant 1.6% population growth using a basket of different annual growth rate indicators **(Appendix J)**.
+Demographic data shows 7% increase in population from 2020 to 2021. However, this growth is unsustainable long-term. Hence, WeCare assumes a constant 1.6% population growth using a basket of different annual growth rate indicators **[Pricing Model](Pricing Model/Assignment Pricing Model_v3.xlsx)**.
 
 **Uniformity assumption:**
 Due to limited data, an uniformity assumption was made where all buildings and people are impacted equally.
@@ -217,7 +217,7 @@ Risk |Mitigation |
 |B. Moral Hazard: If citizens believe their home is covered through the scheme, they may be less likely to take measures to minimise damages or voluntarily re-locate. </br> For example, well maintained roofs are less likely to be damaged by hail and storms, causing leaks and other damages.|Incentives to relocate to lower risk areas. Cross subsidisation between regions. </br></br>Future scope: </br>•	Incentive for home health checks e.g. a home maintenance voucher. </br>•	Extra data collected to improve the risk model.
 |C. Adverse selection: Citizens with high risk are more likely to purchase the scheme| Making this scheme mandatory for all homeowners will mitigate this risk.
 |D. Economic: Adverse interest rate & inflation	|Sensitivity testing for economic factors
-|E. Affordability: Houses can be expensive. As potential risk of major disaster increases, levies can become too high to be affordable|	Levy max cap set to 8% of median household income (Appendix K).
+|E. Affordability: Houses can be expensive. As potential risk of major disaster increases, levies can become too high to be affordable|	Levy max cap set to 8% of median household income [Pricing Model](Pricing Model/Assignment Pricing Model_v3.xlsx).
 |F. Operational & Administrative risk: Being a national scheme for all residential housing may be large administrative strain	|Allocate sufficient expenses towards operational and admin staffing (included in the expense loading)
 |G. Actuarial Risk: Risk that assumptions and pricing models are inaccurate |•	Calibrate and monitor model frequently </br>•	Gather Input from experts </br>•	Encourage risk sharing with re-insurance </br>•	Exclude cover we do not have data for
 |H. Data risk: Data may be skewed, incomplete or inaccurate	|•	Data checks done frequently </br>•	Update data regularly
