@@ -173,7 +173,7 @@ The table below shows the estimated present value of the total economic capital 
 
 The economic capital will be spread across the life of the program through the annual levy, which has been priced to ensure Storslysia has a high confidence in the level of reserves assigned to meet catastrophe claims. Below is a graph which highlights the annual surplus maintained to avoid insolvency:
 
-![](ChartsandTables/DiscountedAnnualReserves.PNG)
+![](ChartsandTables/DiscountedAnnualReserves.png)
 
 <h3 align="left">4.4.2 Economic Benefit Projection</h3>
 
