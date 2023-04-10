@@ -237,12 +237,14 @@ Sensitivity analysis is used to identify which variables have large individual i
 ![](ChartsandTables/SensitivityGraph1.JPG)
 
 </br>
+
 **2. Discounting (Economic Downturn)** </br>• Higher % on living expenses (15% | base 10%) </br>• Higher Interest (+/-2%) The interest scenario on the right demonstrates a relativity even impact from changes in interest rates
 </br>
 
 ![](ChartsandTables/SensitivityGraph2.JPG)
 
 </br>
+
 **3. Other variables tested with smaller impacts on results:** </br>• Incentive amount </br>• % of people relocating </br>• Reasonable population growth
 
 ---
