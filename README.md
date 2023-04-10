@@ -27,13 +27,13 @@ WeCare has been hired to design a social insurance program for Storslysia with t
 - Temporary accommodation and payments to cover displacement living costs
 - Monetary grant incentives to promote proactive relocation to lower risk areas
 
-Participation in this program will be compulsory and consists of individualised risk pricing for the six main regions of Storslysia. Catastrophes frequency and severity were projected to provide a measure of property damage for all regions. WeCare is confident the proposed social insurance program will be sustainable over the projected 127-year timeframe with an annual review process to monitor and revise assumptions. This report provides a risk assessment and mitigation framework to support Storslysia to manage its exposure to catastrophic climate related events
+Participation in this program will be compulsory and consists of individualised risk pricing for the six main regions of Storslysia. Catastrophes frequency and severity were projected to provide a measure of property damage for all regions. WeCare is confident the proposed social insurance program will be sustainable over the projected 127-year timeframe with an annual review process to monitor and revise assumptions. This report provides a risk assessment and mitigation framework to support Storslysia to manage its exposure to catastrophic climate related events.
 
 ---
 <a name="Objectives"></a>
 <h2 align="left">2. Objectives</h2>
 
-Increasing temperatures and rising sea levels have been experienced worldwide due to increasing greenhouse gas emissions **(EPA, Climate Change Indicators: Oceans 2022)**. Around the world the frequency and intensity of natural catastrophes are growing at an alarming rate. For the residents of Storslysia, its diverse geography exposes them to a range of different catastrophic events. The impacts of climate change have elevated the population's risk of displacement and not having home insurance in this current environment is a cause for concern **(iDMC, Displacement, disasters and climate change 2021)**. WeCare’s objective is to design a social insurance program to protect Storslysian households against this displacement risk. Our proposal possesses similar features to home insurance, by compensating homeowners financially to repair/replace their home when damaged by an insured catastrophic event. The scheme aims to provide affordable mandatory home insurance, coverage of temporary housing and living costs and incentives to encourage proactive relocation to less risky regions to the residents of Storyslysia.
+Increasing temperatures and rising sea levels have been experienced worldwide due to increasing greenhouse gas emissions **(EPA, Climate Change Indicators: Oceans 2022)**. Around the world the frequency and intensity of natural catastrophes are growing at an alarming rate. For the residents of Storslysia, its diverse geography exposes them to a range of different catastrophic events. The impacts of climate change have elevated the population's risk of displacement and not having home insurance in this current environment is a cause for concern **(iDMC, Displacement, disasters and climate change 2021)**. WeCare’s objective is to design a social insurance program to protect Storslysian households against this displacement risk. Our proposal possesses similar features to home insurance, by compensating homeowners financially to repair/replace their home when damaged by an insured catastrophic event. The scheme aims to provide affordable mandatory home insurance, coverage of temporary housing and living costs and incentives to encourage proactive relocation to less risky regions to the residents of Storslysia.
 
 <h3 align="left">2.1 Key Metrics to Monitor</h3> 
 
@@ -111,12 +111,15 @@ Part one of this scheme offers a lump sum to household owners in Regions 2 - 6, 
 <h3 align="left">3.4.1 Scheme Specifications</h3>
 
 • Households will pay lower annual levies for residing in safer regions.
+
 • Region 2 - 6 households will receive a lump sum fund if they relocate to Region 1. The more exposed the current region is to climate events, the greater the lump sum offered to relocate.
+
 • To receive this fund, homeowners must have purchased the home within an eligible region prior to 31st December 2022.
 
 <h3 align="left">3.5 Other Features</h3>
 
 • Our program will include the establishment of conservation areas which will be used for temporary accommodation.
+
 • Levies may be reimbursed or reduced if the government is making significant profits due to the non-for-profit nature of the scheme.
 
 <h3 align="left">3.5.1 Feature Justification</h3>
@@ -152,7 +155,7 @@ The costs of temporary accommodation for Storslysia has been estimated under the
 
 Costs under voluntary relocation is projected to be lower than emergency displacement. Voluntary relocation significantly diminishes the exposure to property damage and reduces the need for temporary accommodation and living costs. The program promotes household to move from high risk regions to region 1 with once off cash incentives, as shown below.
 
-![](ChartsandTables/IncentiveSummary.png)
+![](ChartsandTables/IncentiveSummary.PNG)
 
 These cash incentive can help households pay up to 20 years of future levy, while also reducing the total cost of each region as a result of voluntary relocation **(Appendix I)**.
 
@@ -166,17 +169,17 @@ An appropriate level of economic capital is required to ensure the social insura
 
 The table below shows the estimated present value of the total economic capital required for the entirety of the program.
 
-![](ChartsandTables/EconomicCapitalTable.png)
+![](ChartsandTables/EconomicCapitalTable.PNG)
 
 The economic capital will be spread across the life of the program through the annual levy, which has been priced to ensure Storslysia has a high confidence in the level of reserves assigned to meet catastrophe claims. Below is a graph which highlights the annual surplus maintained to avoid insolvency:
 
-![](ChartsandTables/DiscountedAnnualReserves.png)
+![](ChartsandTables/DiscountedAnnualReserves.PNG)
 
 <h3 align="left">4.4.2 Economic Benefit Projection</h3>
 
 Due to the very conservative approach taken to price this insurance program, WeCare has projected the economic benefits of the program under the same basis. Assuming climate events occur at the 95th percentile of expected damage, the Storslysian economy stands to benefit by reducing the overall present value of expected hazard losses by 7.330 billion units of Storslysian currency. Additionally, 92.8% of the burden of losses will be covered by the Storslysian government.
 
-![](ChartsandTables/DistributionofEconomicCosts.png)
+![](ChartsandTables/DistributionofEconomicCosts.PNG)
 
 ---
 <a name="Assumption"></a>
