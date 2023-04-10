@@ -138,6 +138,8 @@ The most significant cost driver for the relocation program is property damage. 
 
 Through exploratory analysis, WeCare determined it is appropriate to model the cost of property damage by each region. These regions have unique exposures to natural events with varying degrees of severity that should be examined separately. The division of hazard events by region is also useful when it comes to levy setting, as it becomes a grading factor for determining the equitable price for each household. The Storslysian government has allocated a budget of 10% of GDP (~130b) to fund this program. WeCare proposes that the excess of budget required will be funded by an annual levy system to ensure sufficient capital to meet climate hazard risks. The following table summarises the levies under the proposed program.
 
+![](ChartsandTables/CostOverview.png)
+
 >insert table here
 
 <h3 align="left">4.2 Temporary Displacement</h3>
